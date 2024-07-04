@@ -2,7 +2,7 @@
 
 This project is an implementation of a turtle robot based on AVR microcontroller.
 
-![assembled robot](assembled_robot.jpg | width=200)
+![assembled robot](assembled_robot.jpg)
 
 ## Mechanical design
 
