@@ -1,0 +1,4 @@
+avrostr-backups/
+*.kicad_prl
+*.xml
+fp-info-cache

@@ -1,0 +1,6 @@
+build/*
+main
+image.h
+image-a3.h
+image-a4.h
+image.pdf

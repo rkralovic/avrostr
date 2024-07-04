@@ -1,0 +1,5 @@
+build/*_test
+build/*.elf
+build/*.pdf
+build/*.o
+build/*.d
